@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello World! I'm Ravi Pandey 🚀<br><br>I'm a developer who believes that code is a form of creative expression. When I'm not debugging, you can find me [hobby, e.g., hiking, gaming, or drinking way too much coffee].<br><br>### What I'm up to:<br>* **Reading:** Code View<br>* **Building:** A Org Solution that helps people to control user activity.<br>* **Contributing:** Active in the NodeJS open-source space.
+## Hello World! I'm Ravi Pandey 🚀<br><br>I’m passionate about building seamless end-to-end products and interactive digital experiences. I enjoy bridging the gap between design and functionality while constantly expanding my technical toolkit.<br><br>### What I'm up to:<br>* **Reading:** Code World<br>* **Building:** A Org Solution that helps people to control user activity.<br>* **Contributing:** Active in the NodeJS open-source space.
 
 
 ## 🌐 Socials:
